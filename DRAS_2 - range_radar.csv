@@ -1,0 +1,11 @@
+last updated:,02/21/2026,,,RANGE,RADAR,,,
+Assets,Daily Close,Volatility,Price Deviation from Mean,Volatility Range                                   Lower Band ,Volatility Range                                      Upper Band,Deviation Sate, Condition ,Signal Confidence
+BTC,"$67,965.05",1.94%,17.27%,"$63,362.94","$71,211.40",NEUTRAL,Neutral,Moderate
+SOL,$85.17,3.07%,20.78%,$75.86,$91.28,NEUTRAL,Neutral,Reliable
+SUI,$0.9497,4.02%,8.61%,$0.83,$1.05,NEUTRAL,Neutral,Reliable
+PAXG/GOLD,"$5,138.14",1.99%,37.73%,"$4,725.99","$5,324.49",NEUTRAL,Bearish,Reliable
+BNB,$625.48,3.31%,15.70%,$554.77,$677.00,NEUTRAL,Bearish,Moderate
+CRV,$0.2390,3.34%,-16.76%,$0.22,$0.27,NEUTRAL,Neutral,Moderate
+VET,$0.0077,3.07%,-19.36%,$0.01,$0.01,NEUTRAL,Neutral,Moderate
+UNI,$3.61,4.13%,34.21%,$3.03,$3.89,NEUTRAL,Neutral,Moderate
+ETH,"$1,973.16",2.77%,4.91%,"$1,801.60","$2,128.66",NEUTRAL,Neutral,Moderate
